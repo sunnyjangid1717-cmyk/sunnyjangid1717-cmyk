@@ -14,40 +14,74 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">👋 Hi, I'm Sunnyjangid!</h1>
-<h3 align="center">🚀 Embedded Systems & Cybersecurity Enthusiast from India</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20,30,40&height=220&section=header&text=Sunny%20Boss&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20&%20IoT%20Developer&descSize=22&descAlignY=65" width="100%" />
+</p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Welcome+to+My+Digital+Universe!+🚀;Ethical+Hacker+&+Cyber+Lab+Hindi+Creator;IoT+Hardware+Geek+⚡+NodeMCU+ESP8266;12th+Science+(PCM+%2B+CS)+Student" alt="Typing SVG" />
+</h3>
+
+---
+
+### 🌐 Interactive 3D & Live Metrics Showcase
+<p align="center">
+  <!-- 3D Glowing Skill Badge Bar -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&fire=00F0FF&currStreakNum=FFF" alt="GitHub Streak" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Cybersecurity+Researcher;IoT+%26+Microcontrollers+Expert;C%2C+Python+%26+NodeMCU+Developer" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF007F" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" alt="Top Languages" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & IoT Devices
-<p align="left">
-  <!-- Programming Languages -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+### ⚡ What I Do & My Expertise (मैं क्या करता हूँ और किसमें एक्सपर्ट हूँ)
+
+| Category | Skills & Technologies | Description / Role |
+| :--- | :--- | :--- |
+| **🛡️ Cybersecurity & Hacking** | `Kali Linux`, `Nmap`, `Penetration Testing`, `Network Security` | Running security assessments, mobile/network security auditing, and operating **Cyber Lab Hindi**. |
+| **🔌 IoT & Embedded Systems** | `NodeMCU ESP8266`, `Arduino`, `Relay Modules`, `Circuit Design` | Building switchless relay automations, hardware prototyping, and custom microcontroller projects. |
+| **💻 Programming Languages** | `C++`, `Python`, `JavaScript`, `PowerShell`, `CMD` | Writing automation scripts, custom logic development, and command-line system tuning. |
+| **📚 Current Academics** | `Physics`, `Chemistry`, `Mathematics`, `Computer Science (CS)` | Studying as a 12th-grade Science student under HBSE, maintaining detailed NCERT notes and repositories like `HBSE_12th`. |
+| **🛠️ Hardware & Electronics** | `PCB & Microcontroller Diagnostics`, `Custom Speaker Mods`, `Circuit Repair` | Hands-on physical repairs, component-level diagnostics, and hardware modifications. |
+
+---
+
+### 🔥 Tech Stack & Tools (3D Glossy Icons)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="50" height="50" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="50" height="50" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="50" height="50" />
 </p>
 
-<p align="left">
-  <!-- IoT & Hardware Badges -->
-  <img src="https://img.shields.io/badge/NodeMCU-ESP8266-red?style=for-the-badge&logo=espressif&logoColor=white" alt="NodeMCU">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/IoT-Relay%20Modules-orange?style=for-the-badge&logo=internet-of-things&logoColor=white">
-  <img src="https://img.shields.io/badge/Cybersecurity-Ethical%20Hacking-blue?style=for-the-badge&logo=kalilinux&logoColor=white">
+<p align="center">
+  <img src="https://img.shields.io/badge/NodeMCU_ESP8266-FF0000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber_Security-00F0FF?style=for-the-badge&logo=kalilinux&logoColor=black" />
+  <img src="https://img.shields.io/badge/HBSE_12th_Science-333333?style=for-the-badge&logo=github&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/Windows_11_Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🔗 Connect With Me & My Works
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Repositories-HBSE_12th_%26_Code-2ea44f?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=40,30,20,11,6&height=40&section=footer" width="100%" />
 </p>
