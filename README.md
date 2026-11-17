@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'M👋
 
 <!--
 **sunnyjangid1717-cmyk/sunnyjangid1717-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,28 +22,6 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3500&pause=1000&color=FF007F&center=true&vCenter=true&width=750&lines=⚡+Hacking+The+Matrix+Through+Code;💻+Full-Stack+Web+Development+Expert;🛡️+Cybersecurity+%26+Penetration+Testing;🔌+IoT+Hardware+%26+NodeMCU+Architect" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00f0ff&label=PROFILE+VIEWS" alt="Visitor Count" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?color=ff007f&style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
-</p>
-
----
-
-### 🔮 System Architecture & Core Domains
-
-<p align="center">
-  <a href="https://github.com/sunnyjangid1717-cmykE">
-    <img src="https://github-readme-stats.vercel.app/api?username=sunnyjangid1717-cmyk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF007F&text_color=FFFFFF" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/sunnyjangid1717-cmyk">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyjangid1717-cmyk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" alt="Top Langs" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyjangid1717-cmyksunnyjangid1717-cmyk&theme=tokyonight&hide_border=true&background=0D1117&fire=FF007F&currStreakNum=00F0FF" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### ⚙️ Technical Arsenal & Engineering Matrix
@@ -61,7 +39,7 @@ Here are some ideas to get you started:
 ### 🌟 Interactive Tech Stack & Ecosystem
 
 <p align="center">
-  <!-- Glowing 3D / Devicons -->
+  <!-- Glowing Icons -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="55" height="55" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="55" height="55" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="55" height="55" />&nbsp;&nbsp;&nbsp;&nbsp;
